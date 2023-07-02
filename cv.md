@@ -25,17 +25,16 @@ const func = (num) => {
 ```
 ## Experience:
 * __Senior analyst__
-_October 2020 – January 2022_
-ALC "Vitalur"
-Sales forecasting, development of an auto-order system, creation of reports and presentations.
+    * ALC "Vitalur" _October 2020 – January 2022_
 * __Lead Specialist__
-_January 2018 – October 2020_
-Creating and clarifying business / technical requirements, testing, training of team to work with the software, creating  reports and presentations
+    * LLC "Finprofit"_January 2018 – October 2020_
 
 ## Education:
-* Belarusian State Economic University 2012-2017, Cyber-economist
-* Belarusian State Economic University 2017-2018, The Master of Economics 
-
+* __Cyber-economist__
+    * Belarusian State Economic University _2012-2017_
+* __The Master of Economics__
+    * Belarusian State Economic University _2017-2018_
+    
 ## English:
 B1 (I have some speaking practice, but not with native speakers)
 
